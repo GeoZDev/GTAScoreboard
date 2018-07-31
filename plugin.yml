@@ -1,0 +1,5 @@
+name: GTAScoreboard
+main: varion\Main
+version: 1.0-ADDON
+author: Varion
+api: 3.0.0-ALPHA12
